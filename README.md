@@ -1,5 +1,26 @@
-# 计算机科学相关书籍和文章
+# 中文开源书籍🌟
+- [计算机科学](#计算机科学)
 
-## Python
-- [python3-cookbook](https://python3-cookbook.readthedocs.io/zh-cn/latest/) 🌟(开源)
-- [python 工匠](https://github.com/piglei/one-python-craftsman?tab=readme-ov-file) (开源)
+## 计算机科学
+### Python
+
+- [Python Cookbook](https://python3-cookbook.readthedocs.io/zh-cn/latest/)
+- [Python 工匠](https://github.com/piglei/one-python-craftsman?tab=readme-ov-file)
+
+### JavaScript
+
+- [现代 JavaScript 教程](https://zh.javascript.info/)
+
+### Go
+
+- [Go语言圣经](https://gopl-zh.github.io/)
+
+### TypeScript
+
+- [TypeScript 入门教程](https://ts.xcatliu.com/)
+
+### Rust
+
+- [Rust语言圣经](https://course.rs/about-book.html)
+
+### Java
