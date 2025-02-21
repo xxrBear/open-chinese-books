@@ -1,7 +1,5 @@
-# 中文开源书籍🌟
-- [计算机科学](#计算机科学)
+# 中文开源CS书籍🌟
 
-## 计算机科学
 ### Python
 
 - [Python Cookbook](https://python3-cookbook.readthedocs.io/zh-cn/latest/)
